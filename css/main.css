@@ -1,0 +1,8 @@
+.body__container{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400; /* 두께 */
+    color: "#333";
+
+    /* body 태그 안의 모든 폰트는 로보토로 지정하고, 제대로 출력도지 못하는 경우에는 고딕계열로 출력하겠다는 의미 */
+}
